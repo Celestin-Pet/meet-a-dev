@@ -1,0 +1,17 @@
+body{
+  background-image: url(what3.jpeg) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+img {
+  border: 10px solid black;
+   padding: 15px;
+   width: 200px; 
+   length:100px;
+
+      }
+      
+   
