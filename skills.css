@@ -11,17 +11,23 @@
     background-position: center;
     background-size: cover;
     font-family: poppins;
+    
+  
+  }
+  p{
+    text-align: center
+  
   }
   ul,nav{
     list-style: none;
   }
   a{
-    text-decoration: none;
+    text-decoration: gray;
     cursor: pointer;
     color:inherit;
   }
   header{
-    position: absolute;
+    position: right;
     top: 0;
     left: 0;
     z-index: 10;
@@ -30,8 +36,8 @@
     display: -moz-flex;
     display: -ms-flex;
     display:-o-flex;
-    display: flex;
-    justify-content: center;
+    display: flex-end;
+    justify-content: right;
     color:black;
     padding: 35px  100px 0;
   }
