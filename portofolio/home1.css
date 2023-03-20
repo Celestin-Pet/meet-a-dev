@@ -5,7 +5,7 @@
     }
     
     body{
-      background-image: url(./backgroundimg2.jpeg) ;
+      background-image: url("./backgroundimg2.jpeg") ;
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-position: center;
